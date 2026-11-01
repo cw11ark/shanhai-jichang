@@ -1,0 +1,195 @@
+{
+ "site": "shanhai",
+ "name": "山海",
+ "rows": [
+  {
+   "name": "香港1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 164,
+   "https_ms": 484,
+   "avg_mb": 114.4,
+   "peak_mb": 131.2,
+   "raw": "香港01[中继]1.0x | AnyTLS | 164ms | 484ms | 915.23Mbps | 1.05Gbps | PortRestrictedCone"
+  },
+  {
+   "name": "香港2EPL2.x",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 89,
+   "https_ms": 248,
+   "avg_mb": 111.7,
+   "peak_mb": 114.5,
+   "raw": "2 | 香港02(EPL)2.0x | Shadowsocks | 89ms | 248ms | 893.73Mbps | 916.00Mbps | Unknown"
+  },
+  {
+   "name": "台湾1[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 215,
+   "https_ms": 657,
+   "avg_mb": 70.0,
+   "peak_mb": 116.6,
+   "raw": "3 | 台湾01[中继11.0x | AnyTLS | 215ms | 657ms | 560.25Mbps | 932.51Mbps | FullCone"
+  },
+  {
+   "name": "澳门1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 174,
+   "https_ms": 525,
+   "avg_mb": 57.6,
+   "peak_mb": 70.9,
+   "raw": "澳门01[中继]1.0x | AnyTLS | 174ms | 525ms | 460.92Mbps | 567.18Mbps | FullCone"
+  },
+  {
+   "name": "日本1[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 181,
+   "https_ms": 561,
+   "avg_mb": 48.4,
+   "peak_mb": 77.1,
+   "raw": "日本01[中继11.0x | AnyTLS | 181ms | 561ms | 387.40Mbps | 616.65Mbps | FullCone"
+  },
+  {
+   "name": "美国1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 288,
+   "https_ms": 692,
+   "avg_mb": 51.2,
+   "peak_mb": 93.9,
+   "raw": "美国01[中继]1.0x | AnyTLS | 288ms | 692ms | 409.72Mbps | 751.20Mbps | FullCone"
+  },
+  {
+   "name": "美国2[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 362,
+   "https_ms": 972,
+   "avg_mb": 26.8,
+   "peak_mb": 50.8,
+   "raw": "美国02[中继]1.0x | AnyTLS | 362ms | 972ms | 214.18Mbps | 406.68Mbps | FullCone"
+  },
+  {
+   "name": "美国3[高级]1.5x",
+   "type": "ANYTLS",
+   "delay_ms": 224,
+   "https_ms": 855,
+   "avg_mb": 2.7,
+   "peak_mb": 4.4,
+   "raw": "美国03[高级]1.5x | AnyTLS | 224ms | 855ms | 21.96Mbps | 35.11Mbps | FullCone"
+  },
+  {
+   "name": "英国1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 219,
+   "https_ms": 612,
+   "avg_mb": 53.5,
+   "peak_mb": 151.2,
+   "raw": "英国01[中继]1.0x | AnyTLS | 219ms | 612ms | 427.63Mbps | 1.21Gbps | FullCone"
+  },
+  {
+   "name": "越南1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 468,
+   "https_ms": 1063,
+   "avg_mb": 25.8,
+   "peak_mb": 34.2,
+   "raw": "10 | 越南01[中继]1.0x | AnyTLS | 468ms | 1063ms | 206.42Mbps | 273.33Mbps | Unknown"
+  },
+  {
+   "name": "德国1[中继]1.x",
+   "type": "ANYTLS",
+   "delay_ms": 209,
+   "https_ms": 625,
+   "avg_mb": 110.3,
+   "peak_mb": 143.8,
+   "raw": "11 | 德国01[中继]1.0x | AnyTLS | 209ms | 625ms | 882.31Mbps | 1.15Gbps | FullCone"
+  },
+  {
+   "name": "泰国1[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 223,
+   "https_ms": 592,
+   "avg_mb": 37.8,
+   "peak_mb": 47.3,
+   "raw": "12 泰国01[中继11.0x | AnyTLS | 223ms | 592ms | 302.26Mbps | 378.12Mbps | FullCone"
+  },
+  {
+   "name": "新加坡1[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 117,
+   "https_ms": 347,
+   "avg_mb": 241.2,
+   "peak_mb": 286.2,
+   "raw": "13 | 新加坡01[中继11.0x | AnyTLS | 117ms | 347ms | 1.93Gbps | 2.29Gbps | FullCone"
+  },
+  {
+   "name": "新加坡2[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 149,
+   "https_ms": 420,
+   "avg_mb": 241.2,
+   "peak_mb": 270.0,
+   "raw": "14 | 新加坡02[中继11.0x | AnyTLS | 149ms | 420ms | 1.93Gbps | 2.16Gbps | FullCone"
+  },
+  {
+   "name": "澳大利亚1[中继11.x",
+   "type": "ANYTLS",
+   "delay_ms": 235,
+   "https_ms": 627,
+   "avg_mb": 10.4,
+   "peak_mb": 12.0,
+   "raw": "15 | 澳大利亚01[中继11.0x | AnyTLS | 235ms | 627ms | 83.34Mbps | 96.20Mbps | FullCone"
+  },
+  {
+   "name": "日本1[直连].6x",
+   "type": "ANYTLS",
+   "delay_ms": 276,
+   "https_ms": 685,
+   "avg_mb": 62.7,
+   "peak_mb": 93.8,
+   "raw": "16 | 日本01[直连]0.6x | AnyTLS | 276ms | 685ms | 501.60Mbps | 750.34Mbps | FullCone"
+  },
+  {
+   "name": "日本2[直连1.5x",
+   "type": "ANYTLS",
+   "delay_ms": 56,
+   "https_ms": 176,
+   "avg_mb": 11.4,
+   "peak_mb": 11.6,
+   "raw": "17 | 日本02[直连10.5x | AnyTLS | 56ms | 176ms | 91.49Mbps | 92.45Mbps | FullCone"
+  },
+  {
+   "name": "日本3[直连].6x",
+   "type": "ANYTLS",
+   "delay_ms": 228,
+   "https_ms": 620,
+   "avg_mb": 80.2,
+   "peak_mb": 120.5,
+   "raw": "18 | 日本03[直连]0.6x | AnyTLS | 228ms | 620ms | 641.62Mbps | 964.23Mbps | FullCone"
+  },
+  {
+   "name": "日本4[直连1.6x",
+   "type": "ANYTLS",
+   "delay_ms": 240,
+   "https_ms": 705,
+   "avg_mb": 79.1,
+   "peak_mb": 122.8,
+   "raw": "19 | 日本04[直连10.6x | AnyTLS | 240ms | 705ms | 632.54Mbps | 982.58Mbps | FullCone"
+  },
+  {
+   "name": "韩国1[直连].6x",
+   "type": "ANYTLS",
+   "delay_ms": 259,
+   "https_ms": 780,
+   "avg_mb": 104.4,
+   "peak_mb": 136.2,
+   "raw": "20 | 韩国01[直连]0.6x | AnyTLS | 259ms | 780ms | 835.48Mbps | 1.09Gbps | FullCone"
+  },
+  {
+   "name": "新加坡3[直连1.6x",
+   "type": "ANYTLS",
+   "delay_ms": 206,
+   "https_ms": 616,
+   "avg_mb": 58.1,
+   "peak_mb": 67.5,
+   "raw": "21 | 新加坡03[直连10.6x | AnyTLS | 206ms | 616ms | 464.48Mbps | 540.24Mbps | FullCone"
+  }
+ ]
+}
