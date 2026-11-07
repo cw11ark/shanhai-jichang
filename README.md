@@ -2,7 +2,7 @@
 
 > **一句话评价：国内外分流之选：国内 15 元 128G，海外 5 元 256G**
 >
-> 👉 **[官网注册](https://shanhai.cfd/#/register?code=iyopi9RK)** · 国内用户从 15 元通用档开始；人在海外就选 5 元国际小杯。
+> 👉 **[官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)** · 国内用户从 15 元通用档开始；人在海外就选 5 元国际小杯。
 
 **适合：**
 
@@ -55,7 +55,7 @@
 
 ## 注册
 
-👉 **[官网注册](https://shanhai.cfd/#/register?code=iyopi9RK)** · 国内用户从 15 元通用档开始；人在海外就选 5 元国际小杯。
+👉 **[官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)** · 国内用户从 15 元通用档开始；人在海外就选 5 元国际小杯。
 
 *本文使用推广链接，注册或购买后本站可能获得佣金。*
 
